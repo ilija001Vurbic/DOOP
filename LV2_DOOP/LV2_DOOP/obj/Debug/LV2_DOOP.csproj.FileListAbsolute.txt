@@ -1,0 +1,14 @@
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.exe.config
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.exe
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.pdb
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.csprojAssemblyReference.cache
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.csproj.CoreCompileInputs.cache
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.exe
+C:\Users\Ilija\source\repos\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.pdb
+D:\DOOP\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.exe.config
+D:\DOOP\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.exe
+D:\DOOP\LV2_DOOP\LV2_DOOP\bin\Debug\LV2_DOOP.pdb
+D:\DOOP\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.csprojAssemblyReference.cache
+D:\DOOP\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.csproj.CoreCompileInputs.cache
+D:\DOOP\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.exe
+D:\DOOP\LV2_DOOP\LV2_DOOP\obj\Debug\LV2_DOOP.pdb
