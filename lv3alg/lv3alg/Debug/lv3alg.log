@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(41,41): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(41,51): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(44,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 3 has type 'time_t'
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(44,12): message : consider using '%lld' in the format string
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(44,12): message : consider using '%I64d' in the format string
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(46,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 3 has type 'time_t'
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(46,12): message : consider using '%lld' in the format string
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(46,12): message : consider using '%I64d' in the format string
+C:\Users\student\source\repos\lv3alg\lv3alg\Source.c(139,9): warning C4550: expression evaluates to a function which is missing an argument list
+  lv3alg.vcxproj -> C:\Users\student\source\repos\lv3alg\Debug\lv3alg.exe

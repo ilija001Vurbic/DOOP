@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.exe
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.deps.json
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.runtimeconfig.json
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.runtimeconfig.dev.json
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.dll
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\bin\Debug\netcoreapp3.1\LV3_DOOP.pdb
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.csprojAssemblyReference.cache
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.AssemblyInfo.cs
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.dll
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.pdb
+C:\Users\student\source\repos\LV3_DOOP\LV3_DOOP\obj\Debug\netcoreapp3.1\LV3_DOOP.genruntimeconfig.cache
