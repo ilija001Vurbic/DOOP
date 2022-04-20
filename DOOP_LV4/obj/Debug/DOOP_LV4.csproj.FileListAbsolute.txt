@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\obj\Debug\DOOP_LV4.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\obj\Debug\DOOP_LV4.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\bin\Debug\DOOP_LV4.exe.config
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\bin\Debug\DOOP_LV4.exe
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\bin\Debug\DOOP_LV4.pdb
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\obj\Debug\DOOP_LV4.exe
+C:\Users\student\Desktop\sistemsko\DOOP_LV4\obj\Debug\DOOP_LV4.pdb
